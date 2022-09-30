@@ -23,3 +23,5 @@ In this project, I will  make an analog clock using openCV.
 1. Download the files in a directory 
 2. Open terminal in that directory 
 3. Run the command `$ python3 analog_clock.py`
+
+## Output

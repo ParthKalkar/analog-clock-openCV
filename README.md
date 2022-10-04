@@ -27,3 +27,7 @@ In this project, I will  make an analog clock using openCV.
 ## Output
 
 ![picture](https://user-images.githubusercontent.com/50231750/193817755-7c7e016d-fa33-4569-8515-e11f8f4f55fc.png)
+
+
+[video.webm](https://user-images.githubusercontent.com/50231750/193817858-2a97fab6-f9c8-4e0f-9858-5ac03476d789.webm)
+

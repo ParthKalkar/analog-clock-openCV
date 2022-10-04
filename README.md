@@ -25,3 +25,5 @@ In this project, I will  make an analog clock using openCV.
 3. Run the command `$ python3 analog_clock.py`
 
 ## Output
+
+ file:///home/parth/Parth/Repo/analog-clock-openCV/video.webm

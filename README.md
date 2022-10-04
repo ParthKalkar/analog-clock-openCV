@@ -26,4 +26,4 @@ In this project, I will  make an analog clock using openCV.
 
 ## Output
 
- ![alt text]([http://url/to/img.png](https://github.com/ParthKalkar/analog-clock-openCV/blob/main/picture.png))
+ ![alt text]([http://url/to/img.png](https://github.com/ParthKalkar/analog-clock-openCV/blob/main/picture.png)
